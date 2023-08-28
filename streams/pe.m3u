@@ -135,6 +135,8 @@ https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8
 https://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe",Monterrico TV (1080p) [Not 24/7]
 https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
+#EXTINF:-1 tvg-id="panctv.pe",panc tv peru (720p) [Not 24/7]
+https://stream.trixserver.com:3088/live/uv096live.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe",Nativa (720p) [Not 24/7]
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe",Nativa (720p) [Not 24/7]
